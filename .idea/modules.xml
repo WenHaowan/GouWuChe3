@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GouWuChe3.iml" filepath="$PROJECT_DIR$/GouWuChe3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jia/jia.iml" filepath="$PROJECT_DIR$/jia/jia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiajian/jiajian.iml" filepath="$PROJECT_DIR$/jiajian/jiajian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wenhaojiajian/wenhaojiajian.iml" filepath="$PROJECT_DIR$/wenhaojiajian/wenhaojiajian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whjiajian/whjiajian.iml" filepath="$PROJECT_DIR$/whjiajian/whjiajian.iml" />
+    </modules>
+  </component>
+</project>
